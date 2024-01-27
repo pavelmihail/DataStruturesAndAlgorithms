@@ -1,6 +1,4 @@
-package DoubleyLinkedList;
-
-import LinkedList.LinkedList;
+package doubleyLinkedList;
 
 public class DoublyLinkedList {
 

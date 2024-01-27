@@ -1,4 +1,4 @@
-package DoubleyLinkedList;
+package doubleyLinkedList;
 
 public class Main {
     public static void main(String[] args) {
